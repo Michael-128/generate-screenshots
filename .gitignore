@@ -1,0 +1,4 @@
+assets/*
+output/*
+generate_all.py
+__pycache__
